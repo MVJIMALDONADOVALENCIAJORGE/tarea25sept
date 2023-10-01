@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">taller25sept</string>
+    <string name="Google">Google</string>
+    <string name="Alarma">Alarma</string>
+    <string name="Llamar">Llamar</string>
+    <string name="Temporizador">Temporizador</string>
+    <string name="Camara">Camara</string>
+</resources>
